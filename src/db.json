@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Mayur Desale",
+      "email": "mayur@gmail.com",
+      "address": "123 Main St",
+      "phone": "1234567890",
+      "password": "mayur@123",
+      "isAdmin": false
+    },
+    {
+      "id": "2",
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "address": "Admin Address",
+      "phone": "1234567890",
+      "password": "admin@123",
+      "isAdmin": true
+    },
+    {
+      "id": 3,
+      "name": "mayur",
+      "email": "msm@hg.com",
+      "address": "Nashik",
+      "phone": "94994949"
+    }
+  ]
+}
